@@ -1,1 +1,1 @@
-![header](docs/img_1.png)
+![header](docs/header_dark.png)
