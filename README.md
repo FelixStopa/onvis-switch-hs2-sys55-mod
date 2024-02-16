@@ -2,8 +2,10 @@
 <img alt="header" src="docs/header.png">
 
 <h3>This mod makes your Onvis Switch HS2 compatible with a Gira System 55 frame.</h3>
+<p>This allows for an existing row of switches to be easily expanded without construction work.<br>
+For this, simply buy a larger frame and insert the modified Onvis switch from the front.</p>
 
-<p>Attention. Modifying the device is your responsibility. I am not responsible for possible defects. Opening the device affects the manufacturer's warranty.</p>
+<p><i>Attention. Modifying the device is your responsibility. I am not responsible for possible defects. Opening the device affects the manufacturer's warranty.</i></p>
 
 <h3>Notes</h3>
 <p>
