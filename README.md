@@ -9,14 +9,14 @@ This mod makes your Onvis Switch HS2 compatible with a Gira System 55 frame.
 
 | First Header  | Second Header |
 | ------------- | ------------- |
-| <img width="300" alt="2022-04-09_122409" src="docs/step_1.jpg">  | Content Cell |
-| ![step_2](docs/step_2.jpg)  | Content Cell  |
-| ![step_3](docs/step_3.jpg)  | Content Cell  |
-| ![step_4](docs/step_4.jpg)  | Content Cell  |
-| ![step_5](docs/step_5.jpg)  | Content Cell  |
-| ![step_6](docs/step_6.jpg)  | Content Cell  |
-| ![step_7](docs/step_7.jpg)  | Content Cell  |
-| ![step_8](docs/step_8.jpg)  | Content Cell  |
+| <img width="300" alt="step_1" src="docs/step_1.jpg">  | Content Cell  |
+| <img width="300" alt="step_2" src="docs/step_2.jpg">  | Content Cell  |
+| <img width="300" alt="step_3" src="docs/step_3.jpg">  | Content Cell  |
+| <img width="300" alt="step_4" src="docs/step_4.jpg">  | Content Cell  |
+| <img width="300" alt="step_5" src="docs/step_5.jpg">  | Content Cell  |
+| <img width="300" alt="step_6" src="docs/step_6.jpg">  | Content Cell  |
+| <img width="300" alt="step_7" src="docs/step_7.jpg">  | Content Cell  |
+| <img width="300" alt="step_8" src="docs/step_8.jpg">  | Content Cell  |
 
 
 
