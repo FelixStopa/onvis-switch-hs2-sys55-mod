@@ -1,24 +1,58 @@
-![header](docs/header.png)
 
-### onvis-switch-hs2-sys55-mod
+<img alt="header" src="docs/header.png">
 
-This mod makes your Onvis Switch HS2 compatible with a Gira System 55 frame.
-##### Attention. Modifying the device is your responsibility. I am not responsible for possible defects. Opening the device affects the manufacturer's warranty.
+<h3>This mod makes your Onvis Switch HS2 compatible with a Gira System 55 frame.</h3>
 
-### Instructions
+<p>Attention. Modifying the device is your responsibility. I am not responsible for possible defects. Opening the device affects the manufacturer's warranty.</p>
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| <img width="300" alt="step_1" src="docs/step_1.jpg">  | Content Cell  |
-| <img width="300" alt="step_2" src="docs/step_2.jpg">  | Content Cell  |
-| <img width="300" alt="step_3" src="docs/step_3.jpg">  | Content Cell  |
-| <img width="300" alt="step_4" src="docs/step_4.jpg">  | Content Cell  |
-| <img width="300" alt="step_5" src="docs/step_5.jpg">  | Content Cell  |
-| <img width="300" alt="step_6" src="docs/step_6.jpg">  | Content Cell  |
-| <img width="300" alt="step_7" src="docs/step_7.jpg">  | Content Cell  |
-| <img width="300" alt="step_8" src="docs/step_8.jpg">  | Content Cell  |
+<h3>Notes</h3>
+<p>
+  I printed all the parts with the Bambu Lab X1. I cannot guarantee that the parts will also be compatible with other 3D printers.<br>
+  All parts were printed with PETG.<br>
+  So far, I have only installed switches in the Gira Standard 55 frame and cannot guarantee that the switch is compatible with other design lines.<br>
+  
+</p>
 
+<h3>Instructions</h3>
 
+<p>Print out the following components in the specified quantity</p>
+<p>
+  1 x sf<br>
+  1 x 23<br>
+  1 x eerdgtr<br>
+  4 x 45rt4er5t<br>
+</p>
+<p>Assemble the switch according to the following steps</p>
+<table border="0"> 
+  <tr> 
+    <td><img width="300" alt="step_1" src="docs/step_1.jpg"></td> 
+    <td>Cell 2, Row 2</td> 
+  </tr>
+  <tr> 
+    <td><img width="300" alt="step_2" src="docs/step_2.jpg"></td>
+    <td>Cell 2, Row 2</td> 
+  </tr>
+  <tr> 
+    <td><img width="300" alt="step_2" src="docs/step_3.jpg"></td>
+    <td>Cell 2, Row 2</td> 
+  </tr>
+  <tr> 
+    <td><img width="300" alt="step_2" src="docs/step_4.jpg"></td>
+    <td>Cell 2, Row 2</td> 
+  </tr>
+  <tr> 
+    <td><img width="300" alt="step_2" src="docs/step_5.jpg"></td>
+    <td>Cell 2, Row 2</td> 
+  </tr>
+  <tr> 
+    <td><img width="300" alt="step_2" src="docs/step_6.jpg"></td>
+    <td>Cell 2, Row 2</td> 
+  </tr>
+  <tr> 
+    <td><img width="300" alt="step_2" src="docs/step_7.jpg"></td>
+    <td>Cell 2, Row 2</td> 
+  </tr>
+</table>
 
 
 
