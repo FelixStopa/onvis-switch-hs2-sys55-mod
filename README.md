@@ -10,7 +10,7 @@ For this, simply buy a larger frame and insert the modified Onvis switch from th
 <h3>Notes</h3>
 <p>
   I printed all the parts with the Bambu Lab X1. I cannot guarantee that the parts will also be compatible with other 3D printers.<br>
-  All parts were printed with PETG.<br>
+  All parts were printed with PETG, 0.4 mm nozzle and 0,2mm layer height.<br>
   So far, I have only installed switches in the Gira Standard 55 frame and cannot guarantee that the switch is compatible with other design lines.<br>
   
 </p>
@@ -19,10 +19,10 @@ For this, simply buy a larger frame and insert the modified Onvis switch from th
 
 <p>Print out the following components in the specified quantity</p>
 <p>
-  1 x sf<br>
-  1 x 23<br>
-  1 x eerdgtr<br>
-  4 x 45rt4er5t<br>
+  1 x base_part.stl<br>
+  1 x top_part.stl<br>
+  1 x large_button.stl<br>
+  4 x small_button<br>
 </p>
 <p>Assemble the switch according to the following steps</p>
 <table border="0"> 
@@ -52,6 +52,10 @@ For this, simply buy a larger frame and insert the modified Onvis switch from th
   </tr>
   <tr> 
     <td><img width="300" alt="step_2" src="docs/step_7.jpg"></td>
+    <td>Cell 2, Row 2</td> 
+  </tr>
+  <tr> 
+    <td><img width="300" alt="step_2" src="docs/step_8.jpg"></td>
     <td>Cell 2, Row 2</td> 
   </tr>
 </table>
