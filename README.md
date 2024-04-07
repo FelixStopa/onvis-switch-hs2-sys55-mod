@@ -28,7 +28,7 @@ For this, simply buy a larger frame and insert the modified Onvis switch from th
 <table border="0"> 
   <tr> 
     <td><img width="300" alt="step_1" src="docs/step_1.jpg"></td> 
-    <td>Cell 2, Row 2</td> 
+    <td>Open the housing by levering the cover off the lower part</td> 
   </tr>
   <tr> 
     <td><img width="300" alt="step_2" src="docs/step_2.jpg"></td>
