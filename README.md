@@ -32,7 +32,7 @@ For this, simply buy a larger frame and insert the modified Onvis switch from th
   </tr>
   <tr> 
     <td><img width="300" alt="step_2" src="docs/step_2.jpg"></td>
-    <td>Cell 2, Row 2</td> 
+    <td>Remove the two marked screws and remove the circuit board</td> 
   </tr>
   <tr> 
     <td><img width="300" alt="step_2" src="docs/step_3.jpg"></td>
