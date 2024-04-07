@@ -36,31 +36,34 @@ For this, simply buy a larger frame and insert the modified Onvis switch from th
   </tr>
   <tr> 
     <td><img width="300" alt="step_2" src="docs/step_3.jpg"></td>
-    <td>Cell 2, Row 2</td> 
+    <td>Keep the circuit board and both screws</td> 
   </tr>
   <tr> 
     <td><img width="300" alt="step_2" src="docs/step_4.jpg"></td>
-    <td>Cell 2, Row 2</td> 
+    <td>Place the circuit board in this position in the lower part and <br>
+        press the circuit board firmly into place. Make sure that the <br>
+        dbattery holder on the back is in the correct position. </td> 
   </tr>
   <tr> 
     <td><img width="300" alt="step_2" src="docs/step_5.jpg"></td>
-    <td>Cell 2, Row 2</td> 
+    <td>Secure the circuit board with the two screws</td> 
   </tr>
   <tr> 
     <td><img width="300" alt="step_2" src="docs/step_6.jpg"></td>
-    <td>Cell 2, Row 2</td> 
+    <td>Slide the 5 buttons into the side of the top part</td> 
   </tr>
   <tr> 
     <td><img width="300" alt="step_2" src="docs/step_7.jpg"></td>
-    <td>Cell 2, Row 2</td> 
+    <td>The reverse side should look like this. <br>
+        Insert the battery into the battery compartment at a slight angle.</td> 
   </tr>
   <tr> 
     <td><img width="300" alt="step_2" src="docs/step_8.jpg"></td>
-    <td>Cell 2, Row 2</td> 
+    <td>The positive pole must be visible from the outside</td> 
   </tr>
    <tr> 
     <td><img width="300" alt="step_2" src="docs/step_9.jpg"></td>
-    <td>Cell 2, Row 2</td> 
+    <td>Replace your switch frame so that you have a free space.</td> 
   </tr>
    <tr> 
     <td><img width="300" alt="step_2" src="docs/step_10.jpg"></td>
