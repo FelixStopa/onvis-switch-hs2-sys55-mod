@@ -58,6 +58,14 @@ For this, simply buy a larger frame and insert the modified Onvis switch from th
     <td><img width="300" alt="step_2" src="docs/step_8.jpg"></td>
     <td>Cell 2, Row 2</td> 
   </tr>
+   <tr> 
+    <td><img width="300" alt="step_2" src="docs/step_9.jpg"></td>
+    <td>Cell 2, Row 2</td> 
+  </tr>
+   <tr> 
+    <td><img width="300" alt="step_2" src="docs/step_10.jpg"></td>
+    <td>Cell 2, Row 2</td> 
+  </tr>
 </table>
 
 
