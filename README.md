@@ -41,8 +41,8 @@ For this, simply buy a larger frame and insert the modified Onvis switch from th
   <tr> 
     <td><img width="300" alt="step_2" src="docs/step_4.jpg"></td>
     <td>Place the circuit board in this position in the lower part and <br>
-        press the circuit board firmly into place. Make sure that the <br>
-        dbattery holder on the back is in the correct position. </td> 
+      press the circuit board firmly into place. Make sure that the <br>
+      battery holder on the back is in the correct position. </td> 
   </tr>
   <tr> 
     <td><img width="300" alt="step_2" src="docs/step_5.jpg"></td>
