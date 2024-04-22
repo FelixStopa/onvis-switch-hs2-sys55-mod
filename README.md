@@ -67,7 +67,7 @@ For this, simply buy a larger frame and insert the modified Onvis switch from th
   </tr>
    <tr> 
     <td><img width="300" alt="step_2" src="docs/step_10.jpg"></td>
-    <td>Cell 2, Row 2</td> 
+    <td>Insert the switch into the empty space</td> 
   </tr>
 </table>
 
