@@ -19,11 +19,15 @@ For this, simply buy a larger frame and insert the modified Onvis switch from th
 
 <p>Print out the following components in the specified quantity</p>
 <p>
-  1 x base_part.stl<br>
+  1 x base_part.stl <br>
   1 x top_part.stl<br>
   1 x large_button.stl<br>
   4 x small_button<br>
 </p>
+<p>
+  If the switch is too loose or too tight due to tolerances, try the base_part.stl version -0.1mm or +0.1mm.
+</p>
+
 <p>
   <img width="450" alt="slice" src="docs/slice.png">
 </p>
