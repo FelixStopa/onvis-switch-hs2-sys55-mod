@@ -43,38 +43,46 @@ For this, simply buy a larger frame and insert the modified Onvis switch from th
     <td>Remove the two marked screws and remove the circuit board</td> 
   </tr>
   <tr> 
-    <td><img width="300" alt="step_2" src="docs/step_3.jpg"></td>
+    <td><img width="300" alt="step_3" src="docs/step_3.jpg"></td>
     <td>Keep the circuit board and both screws</td> 
   </tr>
   <tr> 
-    <td><img width="300" alt="step_2" src="docs/step_4.jpg"></td>
+    <td><img width="300" alt="step_4" src="docs/step_4.jpg"></td>
     <td>Place the circuit board in this position in the lower part and <br>
       press the circuit board firmly into place. Make sure that the <br>
       battery holder on the back is in the correct position. </td> 
   </tr>
   <tr> 
-    <td><img width="300" alt="step_2" src="docs/step_5.jpg"></td>
+    <td><img width="300" alt="step_5" src="docs/step_5.jpg"></td>
     <td>Secure the circuit board with the two screws</td> 
   </tr>
   <tr> 
-    <td><img width="300" alt="step_2" src="docs/step_6.jpg"></td>
+    <td><img width="300" alt="step_6" src="docs/step_6.jpg"></td>
+    <td>Slide the 5 buttons into the side of the top part</td> 
+  </tr>
+   <tr> 
+    <td><img width="300" alt="step_6_1" src="docs/step_6_1.jpg"></td>
+    <td>Slide the 5 buttons into the side of the top part</td> 
+  </tr>
+   <tr> 
+    <td><img width="300" alt="step_6_2" src="docs/step_6_2.jpg"></td>
     <td>Slide the 5 buttons into the side of the top part</td> 
   </tr>
   <tr> 
-    <td><img width="300" alt="step_2" src="docs/step_7.jpg"></td>
+    <td><img width="300" alt="step_7" src="docs/step_7.jpg"></td>
     <td>The reverse side should look like this. <br>
         Insert the battery into the battery compartment at a slight angle.</td> 
   </tr>
   <tr> 
-    <td><img width="300" alt="step_2" src="docs/step_8.jpg"></td>
+    <td><img width="300" alt="step_8" src="docs/step_8.jpg"></td>
     <td>The positive pole must be visible from the outside</td> 
   </tr>
    <tr> 
-    <td><img width="300" alt="step_2" src="docs/step_9.jpg"></td>
+    <td><img width="300" alt="step_9" src="docs/step_9.jpg"></td>
     <td>Replace your switch frame so that you have a free space.</td> 
   </tr>
    <tr> 
-    <td><img width="300" alt="step_2" src="docs/step_10.jpg"></td>
+    <td><img width="300" alt="step_10" src="docs/step_10.jpg"></td>
     <td>Insert the switch into the empty space</td> 
   </tr>
 </table>
