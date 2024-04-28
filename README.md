@@ -24,6 +24,10 @@ For this, simply buy a larger frame and insert the modified Onvis switch from th
   1 x large_button.stl<br>
   4 x small_button<br>
 </p>
+<p>
+  <img width="300" alt="step_2" src="docs/slice.jpg">
+</p>
+
 <p>Assemble the switch according to the following steps</p>
 <table border="0"> 
   <tr> 
