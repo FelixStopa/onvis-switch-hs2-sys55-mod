@@ -25,7 +25,7 @@ For this, simply buy a larger frame and insert the modified Onvis switch from th
   4 x small_button<br>
 </p>
 <p>
-  <img width="300" alt="step_2" src="docs/slice.png">
+  <img width="450" alt="slice" src="docs/slice.png">
 </p>
 
 <p>Assemble the switch according to the following steps</p>
