@@ -62,11 +62,13 @@ For this, simply buy a larger frame and insert the modified Onvis switch from th
   </tr>
    <tr> 
     <td><img width="300" alt="step_6_1" src="docs/step_6_1.jpg"></td>
-    <td>Slide the 5 buttons into the side of the top part</td> 
+    <td>Insert the upper part into the lower part and press on the marked points <br>
+      until you hear the upper part snap into place</td> 
   </tr>
    <tr> 
     <td><img width="300" alt="step_6_2" src="docs/step_6_2.jpg"></td>
-    <td>Slide the 5 buttons into the side of the top part</td> 
+    <td>On the back, all the latches should be in position and the <br>
+      upper part should be connected to the lower part without any gaps.</td> 
   </tr>
   <tr> 
     <td><img width="300" alt="step_7" src="docs/step_7.jpg"></td>
