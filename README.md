@@ -28,7 +28,7 @@ For this, simply buy a larger frame and insert the modified Onvis switch from th
   <img width="450" alt="slice" src="docs/slice.png">
 </p>
 
-<h2>Assemble the switch according to the following steps</h2>
+<h3>Assemble the switch according to the following steps</h3>
 <table border="0"> 
   <tr> 
     <td><img width="300" alt="step_1" src="docs/step_1.jpg"></td> 
